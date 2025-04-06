@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Aditya
+aka @adityainloop 🧑🏻‍💻
+ 📍 Maharashtra, India 
 
-<!--
-**Adityainloop/Adityainloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 About Me:
+- 🧠 Currently learning: **DSA in C++** & **Web Development (HTML, CSS, JS)**
+- 🛠️ Exploring: **Python + Flask**, maybe some **Node.js** & **React** later
+- 🏫 College student at **VIT Pune**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack:
+Languages: C++, Python, JavaScript  
+Frontend: HTML, CSS, JS  
+Backend: Flask, Node.js, Java 
+Version Control: Git + GitHub
+
+---
+
+### 📂 Projects: 
+- **Diet chatbot (Python+ flask)**
+Generates 5-days proper diet plan according to user's Health conditions (eg. High BP, Sugar etc.) 
